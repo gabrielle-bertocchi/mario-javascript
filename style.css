@@ -5,3 +5,8 @@ html, body {
 canvas {
   display: block;
 }
+
+.mario__div{
+  display: flex;
+  justify-content: center;
+}
